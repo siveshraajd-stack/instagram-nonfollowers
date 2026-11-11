@@ -1,0 +1,14 @@
+# Secrets - never commit these
+.env
+*.env
+instagram_settings.json
+session*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
